@@ -669,6 +669,14 @@ footer {
     margin-bottom: 20%;
   }
 
+  .textomovil{
+    display: block;
+  }
+
+  .textopc{
+    display: none;
+  }
+
 
 
 }
